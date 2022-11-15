@@ -1,0 +1,39 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+body
+{
+     background-color: rgb(159, 159, 159);
+}
+/* Navbar */
+.navbar
+{
+    background-color: aliceblue;
+    padding: 40px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar ul
+{
+list-style-type: none;
+
+}
+
+.navbar ul li
+{
+    display: inline;
+    font-size: 18px;
+    margin-right: 50px;
+}
+
+.navbar a
+{
+ text-decoration: none;
+ color: black;
+ background-color: aqua;
+}
